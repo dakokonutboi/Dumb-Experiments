@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo apt-get install dialog
 cd ~/Desktop
-git clone http://www.github.com/dakokonutboi/Dumb-Experiments
+git clone http://www.github.com/dakokonutboi/Dumb-Experiments.git
 sudo apt-get install gdebi-core
 mkdir PREREQUISITES
 cd PREREQUISITES
